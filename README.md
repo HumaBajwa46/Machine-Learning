@@ -1,1 +1,2 @@
 # Machine-Learning
+<p>This repository hosts a collection of machine learning projects, algorithms, and datasets curated to facilitate learning and exploration in the field of artificial intelligence. Explore a variety of projects ranging from basic tutorials to advanced research endeavors, along with popular algorithms and datasets suitable for training and testing machine learning models. Join our community and contribute to the growth of knowledge in machine learning.</p>
